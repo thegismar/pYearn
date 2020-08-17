@@ -1,5 +1,3 @@
-# pi-yVaultapy
+# pYearn
 
-A simple script to poll the sharesValue for staked tokens in yearn.finance yVaults, and extrapolate compounding hourly APY, averaged over the last 24 hours.
-
-Runs on MongoDB
+A simple API that provides ROI for the different vaults of yearn.finance.
